@@ -1,0 +1,6 @@
+#This file 
+/CODEOWNERS @Marfeel/frontend-teachleads 
+#Twister file 
+twister.json @Marfeel/alot
+#SCSS files 
+*.scss @Marfeel/ux
